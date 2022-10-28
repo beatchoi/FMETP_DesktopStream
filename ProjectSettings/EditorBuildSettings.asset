@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/FMETP_STREAM/FMCore/Scenes/Networking/Demo_NetworkingMain.unity
+    guid: 0792f2f29ba4f494db636e2717b7fdaf
+  - enabled: 0
+    path: Assets/FMETP_STREAM/FMNetwork/Scenes/Demo_FMNetworkBasic.unity
+    guid: cc716520b8c7e4928866f9fd79a8c868
+  - enabled: 0
+    path: Assets/FMETP_STREAM/FMCore/Scenes/Networking/Demo_FMNetworkStreaming/Demo_FMNetworkStreamingRenderCam.unity
+    guid: de8622cb70cad4000b5f98fee31efb8a
+  - enabled: 0
+    path: Assets/FMETP_STREAM/FMCore/Scenes/Networking/Demo_FMNetworkStreaming/Demo_FMNetworkStreamingMainCam.unity
+    guid: 2ddc271b2d21443a6855b968b60b93f9
+  - enabled: 0
+    path: Assets/FMETP_STREAM/FMCore/Scenes/Networking/Demo_FMNetworkStreaming/Demo_FMNetworkPCStream.unity
+    guid: 600d50b8834cd4020ac9499f5ddaa9b6
+  - enabled: 0
+    path: Assets/FMETP_STREAM/FMCore/Scenes/Networking/Demo_FMWebSocketStreaming/Demo_FMWebSocketStreaming.unity
+    guid: 65d3238e9a1844f13b34601965237e2c
+  - enabled: 0
+    path: Assets/FMETP_STREAM/FMWebSocket/Scenes/Demo_FMWebSocketNetwork.unity
+    guid: c184fc37da160436b8f2d9e1c9dd8f6e
+  - enabled: 1
+    path: Assets/Scenes/DesktopViewer.unity
+    guid: 6d3e729af86001946a990e828330935b
+  m_configObjects: {}
